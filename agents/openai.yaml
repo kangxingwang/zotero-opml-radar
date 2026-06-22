@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero OPML Radar"
+  short_description: "Generate Zotero RSS OPML literature radars"
+  default_prompt: "Use $zotero-opml-radar to turn my research field, journals, and keywords into a Zotero OPML literature radar."
